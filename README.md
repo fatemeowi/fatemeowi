@@ -7,4 +7,4 @@ Engineering student sharing my journey and learnings in technology.
 - Interested in mathematics, physics, technology, and problem solving
 - Building projects and improving my skills one step at a time
 - Currently exploring Python, Git, and web technologies
-- ![Mira's GitHub stats](https://github-readme-stats.vercel.app/api?fatemeowi=USERNAME&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?fatemeowi=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
