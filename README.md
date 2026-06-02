@@ -1,10 +1,12 @@
 ### Hi, I'm Mira!
 
-Engineering student sharing my journey and learnings in technology.
+Electrical Engineering student sharing my learning journey in technology and programming.
 
 - Studying Electronics Engineering at Alzahra University
-- Learning programming and software development
-- Interested in mathematics, physics, technology, and problem solving
-- Building projects and improving my skills one step at a time
-- Currently exploring Python, Git, and web technologies
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?fatemeowi=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+- Learning Python and software development
+- Interested in mathematics, physics, and computer science
+- Building projects and documenting what I learn
+
+[![Mira's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatemeowi&show_icons=true&theme=tokyonight)]
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatemeowi&layout=compact&theme=tokyonight)]
