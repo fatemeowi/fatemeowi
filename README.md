@@ -1,4 +1,4 @@
-### Hi, I'm Mira!
+### Hi, I'm Fatemeh!
 
 Electrical Engineering student sharing my learning journey in technology and programming.
 
